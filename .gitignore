@@ -1,3 +1,6 @@
+# owner
+.env
+
 # Miscellaneous
 *.class
 *.log
