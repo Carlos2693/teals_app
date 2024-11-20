@@ -1,4 +1,4 @@
-package com.example.teals_app
+package com.bocarlos.tealsapp
 
 import io.flutter.embedding.android.FlutterActivity
 
